@@ -1,0 +1,39 @@
+{
+  "paths": {
+    "prom_data_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/kibana_ETL/from_prom_kibana/{}",
+    "cache_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/data_utils/cache_queries.csv",
+    "promo_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/promos.csv",
+    "data_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/kibana_ETL/data",
+    "data_with_duplicates_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/kibana_ETL/data_with_duplicates",
+    "for_mapping_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/kibana_ETL/for_mapping"
+  },
+  "toloka": {
+    "TOKEN": "",
+    "poolsDates_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/kibana_ETL/poolsDates.csv",
+    "toloka_results_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/kibana_ETL/toloka_mapped",
+    "facts": {
+      "base_pool": 33283991,
+      "AGG_FIELD_NAME": "result",
+      "SKILL_ID": 38382,
+      "control_task_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/kibana_ETL/control_tasks/fact/test_fact.tsv"
+    },
+    "rightWrong": {
+      "base_pool": 33283956,
+      "AGG_FIELD_NAME": "result",
+      "SKILL_ID": 17791,
+      "control_task_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/kibana_ETL/control_tasks/rightWrong/test_rightWrong.tsv"
+    },
+    "rightWrong2": {
+      "base_pool": 33283956,
+      "AGG_FIELD_NAME": "result",
+      "SKILL_ID": 17791,
+      "control_task_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/kibana_ETL/control_tasks/rightWrong/test_rightWrong.tsv"
+    },
+    "topics": {
+      "base_pool": 34162453,
+      "AGG_FIELD_NAME": "result",
+      "SKILL_ID": 46674,
+      "control_task_path": "/Users/a19205382/PycharmProjects/QA_statistics/logs_for_kibana/kibana_ETL/control_tasks/topics/test3.tsv"
+    }
+  }
+}
